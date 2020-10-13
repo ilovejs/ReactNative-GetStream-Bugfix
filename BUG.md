@@ -18,6 +18,7 @@ Please update the following components: %s ActionSheet
 
 --- Future bug fix notes
 
-react-native-actionsheet 2.4.2
+react-native-actionsheet 2.4.2 bad performance
+
 "^" in package.json may be wrong
 
