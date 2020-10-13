@@ -1,6 +1,9 @@
-# Bugfix for Official React Native SDK for [Stream Chat](https://getstream.io/chat/)
+# Bugfix for Official React Native SDK demo for [Stream Chat](https://getstream.io/chat/)
 
 Version: "stream-chat-react-native": "1.3.2" @ 13th Oct 2020
+
+Official demo:
+https://github.com/GetStream/stream-chat-react-native/tree/master/examples/NativeMessaging
 
 <p align="center">
   <a href="https://getstream.io/chat/react-native-chat/tutorial/"><img src="https://i.imgur.com/SRkDlFX.png" alt="react native chat" width="60%" /></a>
